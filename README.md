@@ -33,7 +33,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Add solution URL here](file:///C:/Users/ADMIN/Desktop/3-column%20preview%20card%20component/3-column-preview-card-component-main/index.html#)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Add live site URL here](https://3-columnpreviewcardcomponentsolution.netlify.app/)
 
 
 ### Built with
